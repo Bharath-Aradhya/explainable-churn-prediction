@@ -1,0 +1,7 @@
+data/*.csv
+reports/
+models/
+mlruns/
+.venv/
+__pycache__/
+mlflow.db
